@@ -1,8 +1,4 @@
-# Proyecto-Final-de-Etica-y-seguridad-de-datos
 
-Aquí tienes un esquema mejorado para el README del informe de tu proyecto:
-
----
 
 # Proyecto de Privacidad y Ética en Datos
 
