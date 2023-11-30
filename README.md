@@ -111,6 +111,17 @@ CREATE TABLE failed_login_attempts(
 ## Estrategias de Uso Seguro de los Datos
 
 
+## Consideraciones éticas
+
+Además de la anonimización, es crucial considerar:
+
+- **Consentimiento Informado**: Asegurarnos de que los datos recopilados y su uso estén claramente comunicados y consentidos por los usuarios.
+- **Transparencia en el Uso de Datos**: Explicar claramente cómo se utilizan los datos, especialmente en el contexto del modelado predictivo.
+- **Equidad en el Tratamiento de Datos**: Asegurar que el procesamiento de datos no genere sesgos discriminatorios. Esto es particularmente relevante al aplicar técnicas como el binning y el enmascaramiento.
+- **Respeto a la Privacidad**: Mantener un equilibrio entre la utilidad de los datos y el derecho a la privacidad individual, especialmente en datos sensibles.
+- **Responsabilidad en la Toma de Decisiones Automatizadas**: Asegurar que las decisiones basadas en modelos de datos sean justas y no perpetúen sesgos existentes.
+
+
 
 ## Plan de Respuesta ante Incidentes de Seguridad
 
