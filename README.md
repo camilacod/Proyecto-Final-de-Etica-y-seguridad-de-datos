@@ -119,11 +119,24 @@ Además de la anonimización, es crucial considerar:
 
 
 
-## Plan de Respuesta ante Incidentes de Seguridad
+
+## Evaluación de Impacto en la Protección de Datos
 
 
 
-## Recomendaciones de Protección de Datos Futura
+## Reflexiones éticas
+
+
+## Resultados del análisis y experimentos realizados
+
+
+## Conclusiones
+
+cómo las técnicas de privacidad y las
+consideraciones éticas impactan en la utilidad del conjunto de datos y el rendimiento del
+modelo
+
+
 
 
 
