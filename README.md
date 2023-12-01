@@ -152,12 +152,7 @@ Además de la anonimización, es crucial considerar:
 
 
 
-
 ## Evaluación de Impacto en la Protección de Datos
-
-
-
-## Reflexiones éticas
 
 
 ## Resultados del análisis y experimentos realizados
