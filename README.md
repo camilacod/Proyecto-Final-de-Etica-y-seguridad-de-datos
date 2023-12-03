@@ -137,9 +137,6 @@ Los KPIs definidos son:
 
 
 
-## Estrategias de Uso Seguro de los Datos
-
-
 ## Consideraciones éticas
 
 Además de la anonimización, es crucial considerar:
@@ -152,17 +149,7 @@ Además de la anonimización, es crucial considerar:
 
 
 
-## Evaluación de Impacto en la Protección de Datos
 
-
-## Resultados del análisis y experimentos realizados
-
-
-## Conclusiones
-
-cómo las técnicas de privacidad y las
-consideraciones éticas impactan en la utilidad del conjunto de datos y el rendimiento del
-modelo
 
 
 
